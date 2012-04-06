@@ -15,8 +15,6 @@
 #include "Test1.h"
 #include <Windows.h>
 
-//To test git
-
 REGISTER_PLUGIN_BASIC(OpticksTutorial, Tutorial1);
 
 Tutorial1::Tutorial1()
